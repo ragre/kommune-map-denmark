@@ -1,2 +1,2 @@
 # kommune-map-denmark
-Kommune coordinates for Denmark
+Kommune coordinates in Denmark
